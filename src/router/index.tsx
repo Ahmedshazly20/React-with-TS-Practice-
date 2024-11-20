@@ -2,8 +2,8 @@ import { Route, createBrowserRouter, createRoutesFromElements,Navigate } from "r
 import ProtectedRoute from "../components/auth/ProtectedRoute";
 import ErrorHandler from "../components/errors/ErrorHandler";
 import HomePage from "../pages";
-import AboutPage from "../pages/About";
-import ContactPage from "../pages/Contact";
+import AboutPage from "../pages/AI Code";
+import ContactPage from "../pages/MyCode";
 import ContributePage from "../pages/Contribute";
 import RootLayout from "../pages/Layout";
 import LoginPage from "../pages/Login";
@@ -14,7 +14,7 @@ import LearnLayout from "../pages/learn/Layout";
 import ThinkingInReactPage from "../pages/learn/ThinkingInReact";
 import React from "react";
 import Homepage from "../pages/mypages/homepage";
-import Filter from './../pages/About';
+import Filter from '../pages/AI Code';
 
 // THis is my code 
 

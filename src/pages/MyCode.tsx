@@ -19,6 +19,10 @@ const  [movie , setmovie] = useState<string>("");
     setmovie(e.target.value);
   };
 
+
+
+  
+
    return (
     <div  className="container mx-auto ">
       
